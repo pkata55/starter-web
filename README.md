@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 HAHAHA
 ## How to
 
+Let`s edit this again!
+
 I need to add some more text here.
 HAHAHA
 
