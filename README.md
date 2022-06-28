@@ -1,4 +1,6 @@
 # Starter Web Repo
+
+# so now I am doing some changes on the MASTER brach, I have a side branch in the very same time. Let`s see, what will happen.
 HAHAHA
 
 ## why this isn`t changing?
