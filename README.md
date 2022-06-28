@@ -11,6 +11,8 @@ HAHAHA
 Sample website with plenty of files for demos
 HAHAHA
 ## How to
+
+I need to add some more text here.
 HAHAHA
 
 ### I start editing this file on my own
